@@ -1,0 +1,24 @@
+.loading-container {
+  position: relative;
+  display: inline-flex; /* Changed to inline-flex */
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.rotating-wrapper {
+  position: relative; /* Changed from absolute */
+  width: fit-content; /* Changed from 100% */
+  height: fit-content; /* Changed from 100% */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  position: absolute;
+}

@@ -1,0 +1,45 @@
+# Core Python
+python-dotenv==1.0.0
+requests==2.31.0
+aiohttp>=3.10.0  # Python 3.13 requires aiohttp 3.10+ for pre-built wheels
+tqdm==4.66.1
+loguru==0.7.2
+
+# Agent 1 - Media Processing
+beautifulsoup4==4.12.2
+pytesseract==0.3.10
+easyocr>=1.7.0
+Pillow>=10.0.0
+openai-whisper
+yt-dlp
+PyMuPDF
+pdfplumber
+opencv-python-headless
+numpy>=2.0.0  # Python 3.13 requires NumPy 2.x for pre-built wheels
+ffmpeg-python
+
+# Agent 2 - Language & Claims
+langdetect
+google-generativeai
+
+# Agent 3 - Evidence Retrieval
+duckduckgo-search
+urllib3
+pandas
+
+# Agent 6 - PDF Generation
+reportlab
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+pydantic
+
+# Frontend UI
+streamlit
+
+# Additional dependencies
+lxml
+html5lib
