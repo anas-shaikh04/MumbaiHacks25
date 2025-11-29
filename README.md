@@ -1,4 +1,4 @@
-# 🛡️ VERITAS GUARDIAN
+# VERITAS GUARDIAN
 
 **Multi-Agent, Multimodal, Multilingual Misinformation Verification System**
 
@@ -6,26 +6,26 @@ Built for Mumbai Hacks 2025 | India-First AI Solution
 
 ---
 
-## 📌 One-Line Description
+##  One-Line Description
 
 Veritas Guardian is a **6-agent AI system** that verifies any content (text, images, videos, URLs, PDFs), extracts factual claims, searches trusted evidence, and delivers **True/False/Neutral verdicts** with confidence scores, risk levels, multilingual explanations, and PDF verification receipts.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🎯 **Multi-Format Input**: Text, URLs, Images, Videos, PDFs
-- 🌍 **Multilingual**: 11+ Indian languages (Hindi, Marathi, Gujarati, Tamil, Bengali, etc.)
-- 🔍 **Visual Forensics**: ELA analysis for image manipulation detection
-- 🌐 **Web Evidence**: Auto-searches trusted sources (WHO, PIB, fact-checkers)
-- 🤖 **Gemini AI**: LLM-powered verification with reasoning
-- 📊 **Virality Analysis**: Risk scoring (low/medium/high/critical)
-- 📄 **PDF Receipts**: Downloadable verification certificates
-- 🔬 **Transparency**: Full agent workflow visibility
+-  **Multi-Format Input**: Text, URLs, Images, Videos, PDFs
+-  **Multilingual**: 11+ Indian languages (Hindi, Marathi, Gujarati, Tamil, Bengali, etc.)
+-  **Visual Forensics**: ELA analysis for image manipulation detection
+-  **Web Evidence**: Auto-searches trusted sources (WHO, PIB, fact-checkers)
+-  **Gemini AI**: LLM-powered verification with reasoning
+-  **Virality Analysis**: Risk scoring (low/medium/high/critical)
+-  **PDF Receipts**: Downloadable verification certificates
+-  **Transparency**: Full agent workflow visibility
 
 ---
 
-## 🚀 Quick Start (Windows)
+##  Quick Start (Windows)
 
 ### Automated Setup
 ```powershell
